@@ -4,7 +4,7 @@
 Welcome to the Alfa Store app! This Privacy Policy outlines how we collect, use, and protect your personal information. By using our app, you agree to the terms described below.
 
 ## Information We Collect
-## Personal Information:
+### Personal Information:
 ° When you create an account, we collect your name, email address, and other relevant details.
 ° If you make purchases through the app, we collect payment information.
 
